@@ -1,0 +1,11 @@
+# Node
+node_modules
+.env
+
+# Terraform
+.terraform
+.terraform.lock.hcl
+
+# Jest
+coverage
+jest.config.js
